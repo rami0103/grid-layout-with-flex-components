@@ -31,8 +31,8 @@ body {
     text-decoration: none;
     background-color: #781BAA;
     color: white;
-    border-radius: 5px;
-    padding: 0.5rem 1rem;
+    padding: 1rem;
+    border-radius: 8px;
 }
 
 .icon {
