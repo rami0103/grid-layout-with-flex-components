@@ -19,7 +19,7 @@ body {
     padding: 1rem;
     display: flex;
     flex-direction: column;
-    align-self: flex-end;
+    justify-content: flex-end;
 }
 
 .emoji h2 {
