@@ -1,6 +1,9 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #222;
+    /* Gives the content some breathing space and prevents it from going edge to edge */
+    width: 95%;
+    margin: auto; /* Centers the body */
 }
 
 .emojis {
@@ -25,10 +28,6 @@ body {
     text-decoration: none;
     background-color: #781BAA;
     color: white;
-    padding: 1rem;
-    border-radius: 8px;
-
-
     border-radius: 5px;
     padding: 0.5rem 1rem;
 }
